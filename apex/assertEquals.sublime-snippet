@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+System.assertEquals(${1:expected}, ${0:actual});
+]]></content>
+	<tabTrigger>ae</tabTrigger>
+	<scope>source.java</scope>
+	<description>Wave: Apex => assertEquals</description>
+</snippet>

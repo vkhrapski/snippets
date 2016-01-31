@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+@TestVisible
+]]>
+	</content>
+	<tabTrigger>tv</tabTrigger>
+	<scope>source.java</scope>
+	<description>Wave: Apex => @TestVisible</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+System.assertNotEquals(${1:expected}, ${0:actual});
+]]></content>
+	<tabTrigger>ane</tabTrigger>
+	<scope>source.java</scope>
+	<description>Wave: Apex => assertNotEquals</description>
+</snippet>

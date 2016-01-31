@@ -1,0 +1,15 @@
+<snippet>
+	<content>
+<![CDATA[
+@isTest
+static void ${1:method_name}_${2:options}() {
+	Test.startTest();
+		${0:code}
+	Test.stopTest();
+}
+]]>
+	</content>
+	<tabTrigger>tm</tabTrigger>
+	<scope>source.java</scope>
+	<description>Wave: Apex => Test method</description>
+</snippet>
