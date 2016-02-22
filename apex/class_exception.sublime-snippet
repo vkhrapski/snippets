@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+public class ${0} extends Exception {
+
+}
+]]></content>
+	<tabTrigger>cle</tabTrigger>
+	<scope>source.java</scope>
+	<description>Wave: Apex => Exception Class</description>
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+public with sharing class ${0} {
+	public ${0}() {
+		
+	}
+}
+]]></content>
+	<tabTrigger>cl</tabTrigger>
+	<scope>source.java</scope>
+	<description>Wave: Apex => Simple class</description>
+</snippet>
