@@ -4,5 +4,5 @@ System.debug('##### ${0:title} #####' + ${0:value});
 ]]></content>
 	<tabTrigger>sd</tabTrigger>
 	<scope>source.java</scope>
-	<description>Wave: Apex => System.debug</description>
+	<description>Apex => System.debug</description>
 </snippet>

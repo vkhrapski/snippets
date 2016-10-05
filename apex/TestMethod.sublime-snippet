@@ -11,5 +11,5 @@ static void ${1:method_name}_${2:options}() {
 	</content>
 	<tabTrigger>tm</tabTrigger>
 	<scope>source.java</scope>
-	<description>Wave: Apex => Test method</description>
+	<description>Apex => Test method</description>
 </snippet>

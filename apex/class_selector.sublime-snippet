@@ -19,5 +19,5 @@ public class ${0} extends fflib_SObjectSelector {
 ]]></content>
 	<tabTrigger>cls</tabTrigger>
 	<scope>source.java</scope>
-	<description>Wave: Apex => Selector Class</description>
+	<description>Apex => Selector Class</description>
 </snippet>

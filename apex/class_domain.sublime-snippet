@@ -30,5 +30,5 @@ public class ${0} extends fflib_SObjectDomain {
 ]]></content>
 	<tabTrigger>cld</tabTrigger>
 	<scope>source.java</scope>
-	<description>Wave: Apex => Domain Class</description>
+	<description>Apex => Domain Class</description>
 </snippet>

@@ -6,5 +6,5 @@
 	</content>
 	<tabTrigger>tv</tabTrigger>
 	<scope>source.java</scope>
-	<description>Wave: Apex => @TestVisible</description>
+	<description>Apex => @TestVisible</description>
 </snippet>
