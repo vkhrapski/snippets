@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-System.assertNotEquals(${1:expected}, ${0:actual});
+System.assertNotEquals(${2:expected}, ${1:actual}, '${0:message}');
 ]]></content>
 	<tabTrigger>ane</tabTrigger>
 	<scope>source.java</scope>

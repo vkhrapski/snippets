@@ -1,7 +1,9 @@
 <snippet>
 	<content><![CDATA[
-public with sharing class ${0} {
-	public ${0}() {
+public with sharing class ${0} 
+{
+	public ${0}() 
+	{
 		
 	}
 }

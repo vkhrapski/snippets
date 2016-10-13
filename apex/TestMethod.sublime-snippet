@@ -1,8 +1,9 @@
 <snippet>
 	<content>
 <![CDATA[
-@isTest
-static void ${1:method_name}_${2:options}() {
+
+static TestMethod void ${3:method_name}_Should_${2:should}_When_${1:when}() 
+{
 	Test.startTest();
 		${0:code}
 	Test.stopTest();

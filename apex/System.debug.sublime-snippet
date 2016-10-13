@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-System.debug('##### ${0:title} #####' + ${0:value});
+System.debug('##### ${0:title} #####\n' + ${0:value});
 ]]></content>
 	<tabTrigger>sd</tabTrigger>
 	<scope>source.java</scope>

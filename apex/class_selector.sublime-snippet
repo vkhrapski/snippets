@@ -1,17 +1,22 @@
 <snippet>
 	<content><![CDATA[
-public class ${0} extends fflib_SObjectSelector {
-	public List<Schema.SObjectField> getSObjectFieldList() {
-		return new List<Schema.SObjectField> {
+public class ${1:name} extends fflib_SObjectSelector 
+{
+	public List<Schema.SObjectField> getSObjectFieldList() 
+	{
+		return new List<Schema.SObjectField> 
+		{
 				${0}.Id
 			};
 	}
 
-	public Schema.SObjectType getSObjectType() {
+	public Schema.SObjectType getSObjectType() 
+	{
 		return ${0}.sObjectType;
 	}
 
-	public List<${0}> selectById(Set<ID> idSet) {
+	public List<${0}> selectById(Set<ID> idSet) 
+	{
 		return (List<${0}>) selectSObjectsById(idSet);
 	}	
 
