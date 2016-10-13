@@ -2,11 +2,13 @@
 	<content>
 <![CDATA[
 
-static TestMethod void ${3:method_name}_Should_${2:should}_When_${1:when}() 
+static TestMethod void ${1:method_name}_Should_${2:should}_When_${3:when}() 
 {
+	${4:install}
 	Test.startTest();
-		${0:code}
+		${5:code}
 	Test.stopTest();
+	${0:assert}
 }
 ]]>
 	</content>
