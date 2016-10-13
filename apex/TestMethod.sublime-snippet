@@ -4,11 +4,11 @@
 
 static TestMethod void ${1:method_name}_Should_${2:should}_When_${3:when}() 
 {
-	${4:install}
+
 	Test.startTest();
 		${5:code}
 	Test.stopTest();
-	${0:assert}
+
 }
 ]]>
 	</content>
