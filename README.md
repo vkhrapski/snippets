@@ -1,5 +1,5 @@
 # snippets
-Sublime Text Snippets for Web Development
+Sublime Text Snippets for Salesforce Development
 
 |  #  | Source | Snippet | Source                   |
 | --- | ------ | ------- | ------------------------ |
